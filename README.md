@@ -35,13 +35,6 @@ optimize my html tag
                 <i class="fa fa-th-list"></i>
                 <i class="fa fa-search"></i>
             </div>
-            <div class="social-icon">
-                <i class="fa fa-facebook"></i>
-                <i class="fa fa-instagram"></i>
-                <i class="fa fa-twitter"></i>
-                <i class="fa fa-pinterest"></i>
-            </div>
-        </div>
         <div class="notification">
             <div class="contents">
                 <small>Subscribe my youtube channel and never miss any nem video</small>
