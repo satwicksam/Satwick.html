@@ -30,6 +30,8 @@ optimize my html tag
             <h1>Food <span>Dosen't have<br> a religion.</span> It is a religion</h1>
             <button type="button" class="btn">EXPLORE</button>
         </div>
+        <h1>my name is sumit kr das</h1>
+        <p>this is heard dact</p>
         <div class="vertical-bar">
             <div class="search-icon">
                 <i class="fa fa-th-list"></i>
