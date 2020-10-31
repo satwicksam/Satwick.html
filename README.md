@@ -18,16 +18,16 @@ optimize my html tag
             <div class="nav-links" id="nav-links">
                 <i class="fa fa-close" onclick="closeMenu()"></i>
                 <ul>
-                    <a href="#"><li>HOME</li></a>
-                    <a href="#"><li>ABOUT</li></a>
-                    <a href="#"><li>RECIPE</li></a>
+                    <a href="#"><li>HOME Button</li></a>
+                    <a href="#"><li>About us</li></a>
+                    <a href="#"><li>Contact</li></a>
                 </ul>
-                <button type="button" class="btn">SIGN UP</button>
+                <button type="button" class="btn">SIGN IN</button>
             </div>
             <i class="fa fa-bars" onclick="showMenu()"></i>
         </div>
         <div class="banner-title">
-            <h1>Food <span>Dosen't have<br> a religion.</span> It is a religion</h1>
+            <h1>Food <span>Dosen't have<br> a relegion.</span> It is a religion</h1>
             <button type="button" class="btn">EXPLORE</button>
         </div>
         <h1>my name is sumit kr das</h1>
